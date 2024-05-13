@@ -1,0 +1,17 @@
+{
+    "name": "wild/app",
+    "description": "Wild composer quest",
+    "type": "false",
+    "autoload": {
+        "psr-4": {
+            "Wild\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cyril",
+            "email": "cyril.leconte07@gmail.com"
+        }
+    ],
+    "require": {}
+}
